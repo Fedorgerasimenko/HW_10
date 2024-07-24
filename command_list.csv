@@ -1,0 +1,118 @@
+    1  git clone https://github.com/Fedorgerasimenko/HW_10.git
+    2  cd HW_10
+    3  touch text_ignore.txt
+    4  text_ignore.txt
+    5  git status
+    6  git status
+    7  git clone https://github.com/Fedorgerasimenko/HW_10.git
+    8  cd HW_10
+    9  touch text_ignore.txt
+   10  text_ignore.txt
+   11  git status
+   12  git add .
+   13  git commit -m "Додано файл text_ignore.txt та оновлено  .gitignore"
+   14  git clone https://github.com/Fedorgerasimenko/HW_10.git
+   15  cd HW_10
+   16  touch text_ignore.txt
+   17  echo text_ignore.txt > .gitignore
+   18  git add .
+   19  cd HW_10
+   20  touch text_ignore.txt
+   21  text_ignore.txt
+   22  git status
+   23  echo text_ignore.txt > .gitignore
+   24  git add .
+   25  git commit -m "Add .gitignore and text_ignore.txt"
+   26  touch main_test.txt
+   27  git add .
+   28  git commit -m "Створено main_test.txt"
+   29  git checkout -b develop
+   30  touch develop_text.txt
+   31  git add .
+   32  git commit -m "Створено develop_test.txt
+   33  nano develop_test.txt
+   34  cd _HW_10
+   35  cd HW_10
+   36  touch text_ignore.txt
+   37  nano.gitignore
+   38  nano .gitignore
+   39  git status
+   40  cd HW_10
+   41  touch text_ignore.txt
+   42  nano .gitignore
+   43  git status
+   44  git add .
+   45  git commit -m "Додано text_ignore.txt до .gitignore"
+   46  touh main_test.txt
+   47  git add .
+   48  git commit -m "Створено main_test.txt"
+   49  git checkout -b develop
+   50  touch develop_test.tst
+   51  git add .
+   52  git commit -m "Створено develop_test.txt"
+   53  nano develop_test.txt
+   54  git status
+   55  git add develop_test.txt
+   56  git commit -m "Змінено develop_test.txt"
+   57  git checkout main
+   58  git merge develop
+   59  git log
+   60  echo text_ignore.txt > .gitignore
+   61  git .add
+   62  history > command_list.csv
+   63  git add .
+   64  git commit -m "final"
+   65  git pull origin main
+   66  git push origin main
+   67  cd HW_10
+   68  touch text_ignore.txt
+   69  nano .gitignore
+   70  git status
+   71  git add .
+   72  git commit -m "Додано text_ignore.txt до .gitignore"
+   73  touch main_test.txt
+   74  git add .
+   75  git commit -m "Створено main_test.txt"
+   76  git checkout -b develop
+   77  touch develop_test.txt
+   78  git add .
+   79  git commit -m "Створено develop_test.txt"
+   80  nano develop_test.txt
+   81  git status
+   82  git add develop_test.txt
+   83  git commit -m "Змінено develop_test.txt"
+   84  git checkout main
+   85  git merge develop
+   86  git log
+   87  history > command_list.csv
+   88  git add .
+   89  git commit -m "Committed all changes for Task 5"
+   90  git push
+   91  git clone https://github.com/Fedorgerasimenko/HW_10.git
+   92  git clone https://github.com/Fedorgerasimenko/HW_10.git
+   93  cd HW_10
+   94  touch text_ignore.txt
+   95  nano .gitignore
+   96  git status
+   97  git clone https://github.com/fedorgerasimenko/HW_10.git
+   98  cd HW_10
+   99  touch text_ignore.txt
+  100  nano .gitignore
+  101  git status
+  102  git add .
+  103  git commit -m "Додано text_ignore.txt до .gitignore"
+  104  touch main_test.txt
+  105  git add .
+  106  git commit -m "Створено main_test.txt"
+  107  git checkout -b develop
+  108  touch develop_test.txt
+  109  git add .
+  110  git commit -m "Створено develop_test.txt"
+  111  nano develop_test.txt
+  112  git status
+  113  git add develop_test.txt
+  114  git commit -m "Змінено develop_test.txt"
+  115  git checkout main
+  116  git merge develop
+  117  git log
+  118  history > command_list.csv
